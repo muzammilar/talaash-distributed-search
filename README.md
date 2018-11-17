@@ -1,4 +1,4 @@
-Talaash -Distributed File Searching System
+Talaash - Distributed File Searching System
 ==========================================
 
 Language: C
